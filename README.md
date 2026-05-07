@@ -3,7 +3,7 @@
 💻 **Backend Developer**  
 🌍 Based in Goa, India  
 
-An aspiring **Back-end Developer** with a passion for building innovative solutions. Skilled in both **front-end and back-end technologies**, with a strong focus on improving user experiences and contributing to team success. Dedicated to **continuous learning** and making meaningful contributions to the tech community.  
+A **Back-end Developer** with a passion for building innovative solutions. Skilled in both **front-end and back-end technologies**, with a strong focus on improving user experiences and contributing to team success. Dedicated to **continuous learning** and making meaningful contributions to the tech community.  
 
 ---
 
@@ -20,6 +20,8 @@ An aspiring **Back-end Developer** with a passion for building innovative soluti
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
